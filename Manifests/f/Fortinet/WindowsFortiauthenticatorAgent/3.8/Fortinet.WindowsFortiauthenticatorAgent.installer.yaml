@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.5.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.5.0.schema.json
+
+PackageIdentifier: Fortinet.WindowsFortiauthenticatorAgent
+PackageVersion: "3.8"
+InstallerType: inno
+Installers:
+- InstallerUrl: https://github.com/ecastaneda-cow/winget-pkgs/raw/851cd928e5aa46f0446ce93f8e87c32d3df68784/Manifests/Fortinet/Fortiauthenticator/FAC_Agent_Setup_v3.8.exe
+  Architecture: neutral
+  InstallerSha256: FAFA788F5027AD7C9503F6155780152620DBD74040C08AE7B98EB61C4058D76A
+ManifestType: installer
+ManifestVersion: 1.5.0

@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.5.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.5.0.schema.json
+
+PackageIdentifier: Fortinet.WindowsFortiauthenticatorAgent
+PackageVersion: "3.8"
+PackageLocale: en-US
+Publisher: Fortinet
+PackageName: WindowsFortiauthenticatorAgent
+License: MIT License
+Copyright: Fortinet
+ShortDescription: FACagent_Windows
+ManifestType: defaultLocale
+ManifestVersion: 1.5.0
